@@ -1,4 +1,4 @@
-Hey, Voici mon tool , il est en créeation c'est la version alpha !
+Hey, Voici mon tool , il est en créeation c'est la version 2.4 !
 
 /!\ A L'UTILISER JUSTE POUR DES TEST ET NON FAIRE DU MALE !!!! /!\
 
