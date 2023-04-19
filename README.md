@@ -13,3 +13,9 @@ Contenue:
 
 
 C'est mon premier tool en python .
+
+
+Dowload Module: 
+  - pip install mcquery
+  - pip install pystyle
+  - pip install request
